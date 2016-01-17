@@ -1,0 +1,5 @@
+train_feature_path = 'E:/longx/code/python/lstm/train_video_fc6.bin'
+train_label_path = 'E:/longx/code/python/lstm/train_video_label.txt'
+test_feature_path = 'E:/longx/code/python/lstm/test_video_fc6.bin'
+test_label_path = 'E:/longx/code/python/lstm/test_video_label.txt'
+floatX = 'float32'
